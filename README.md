@@ -33,5 +33,5 @@ Average Cross-Validation Accuracy: 87.92%
 Shows stable performance across folds and confirms no overfitting.
 
 ## **📈 Visualizations**
-Confusion Matrix heatmap
+Confusion Matrix heatmap ,
 2D scatter plot showing class separation by age and salary
